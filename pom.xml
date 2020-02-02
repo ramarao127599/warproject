@@ -34,12 +34,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.217.132:8080/repository/konda_release/</url>
+            <url>http://192.168.217.132:8080/repository/ramarao_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.217.132:8080/repository/konda_snap/</url>
+            <url>http://192.168.217.132:8080/repository/ramarao_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
