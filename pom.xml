@@ -34,12 +34,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.0.106:8081/repository/Test1_release/</url>
+            <url>http://192.168.217.141:8080/repository/Test1_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.0.106:8081/repository/Test1_snap/</url>
+            <url>http://192.168.217.141:8080/repository/Test1_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
